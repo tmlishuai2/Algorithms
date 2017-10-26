@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{DB9466EA-870D-49DE-B32D-0192207F6B3C}</ProjectGuid>
-    <RootNamespace>hammingdistance</RootNamespace>
+    <ProjectGuid>{39B0E323-4000-4205-A660-71651917C9F0}</ProjectGuid>
+    <RootNamespace>concatenatedwords</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -111,11 +111,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="C++.cpp" />
-    <ClCompile Include="Solution_lishuai.cpp" />
+    <ClCompile Include="dp.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="trie.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Solution_lishuai.h" />
+    <ClInclude Include="concatenated-words.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

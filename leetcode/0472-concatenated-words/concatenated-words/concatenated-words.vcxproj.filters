@@ -15,15 +15,18 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="C++.cpp">
+    <ClCompile Include="trie.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="Solution_lishuai.cpp">
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="dp.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Solution_lishuai.h">
+    <ClInclude Include="concatenated-words.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
