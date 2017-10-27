@@ -24,6 +24,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "add-and-search-word", "leet
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "implement-trie(prefix-tree)", "leetcode\0208-implement-trie(prefix-tree)\implement-trie(prefix-tree)\implement-trie(prefix-tree).vcxproj", "{1C7B0C3F-2461-4FE6-A7BB-00685A477889}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3sum", "leetcode\0015-3sum\3sum\3sum.vcxproj", "{1D4131FE-96B3-4B4F-8BD4-B4E8ACCED5EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -96,6 +98,14 @@ Global
 		{1C7B0C3F-2461-4FE6-A7BB-00685A477889}.Release|x64.Build.0 = Release|x64
 		{1C7B0C3F-2461-4FE6-A7BB-00685A477889}.Release|x86.ActiveCfg = Release|Win32
 		{1C7B0C3F-2461-4FE6-A7BB-00685A477889}.Release|x86.Build.0 = Release|Win32
+		{1D4131FE-96B3-4B4F-8BD4-B4E8ACCED5EB}.Debug|x64.ActiveCfg = Debug|x64
+		{1D4131FE-96B3-4B4F-8BD4-B4E8ACCED5EB}.Debug|x64.Build.0 = Debug|x64
+		{1D4131FE-96B3-4B4F-8BD4-B4E8ACCED5EB}.Debug|x86.ActiveCfg = Debug|Win32
+		{1D4131FE-96B3-4B4F-8BD4-B4E8ACCED5EB}.Debug|x86.Build.0 = Debug|Win32
+		{1D4131FE-96B3-4B4F-8BD4-B4E8ACCED5EB}.Release|x64.ActiveCfg = Release|x64
+		{1D4131FE-96B3-4B4F-8BD4-B4E8ACCED5EB}.Release|x64.Build.0 = Release|x64
+		{1D4131FE-96B3-4B4F-8BD4-B4E8ACCED5EB}.Release|x86.ActiveCfg = Release|Win32
+		{1D4131FE-96B3-4B4F-8BD4-B4E8ACCED5EB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
