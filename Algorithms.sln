@@ -36,6 +36,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "string-to-integer", "leetco
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "palindrom-number", "leetcode\0009-palindrom-number\palindrom-number\palindrom-number.vcxproj", "{070ECC2D-3298-4E5C-BBD6-0EA127B2A0E0}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "container-with-most-water", "leetcode\0011-container-with-most-water\container-with-most-water\container-with-most-water.vcxproj", "{237874DB-92B5-4B41-A100-FA5881233C17}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "integer-to-roman", "leetcode\0012-integer-to-roman\integer-to-roman\integer-to-roman.vcxproj", "{CA8E0929-0332-4F48-8547-4C9E2C93CE52}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -156,6 +160,22 @@ Global
 		{070ECC2D-3298-4E5C-BBD6-0EA127B2A0E0}.Release|x64.Build.0 = Release|x64
 		{070ECC2D-3298-4E5C-BBD6-0EA127B2A0E0}.Release|x86.ActiveCfg = Release|Win32
 		{070ECC2D-3298-4E5C-BBD6-0EA127B2A0E0}.Release|x86.Build.0 = Release|Win32
+		{237874DB-92B5-4B41-A100-FA5881233C17}.Debug|x64.ActiveCfg = Debug|x64
+		{237874DB-92B5-4B41-A100-FA5881233C17}.Debug|x64.Build.0 = Debug|x64
+		{237874DB-92B5-4B41-A100-FA5881233C17}.Debug|x86.ActiveCfg = Debug|Win32
+		{237874DB-92B5-4B41-A100-FA5881233C17}.Debug|x86.Build.0 = Debug|Win32
+		{237874DB-92B5-4B41-A100-FA5881233C17}.Release|x64.ActiveCfg = Release|x64
+		{237874DB-92B5-4B41-A100-FA5881233C17}.Release|x64.Build.0 = Release|x64
+		{237874DB-92B5-4B41-A100-FA5881233C17}.Release|x86.ActiveCfg = Release|Win32
+		{237874DB-92B5-4B41-A100-FA5881233C17}.Release|x86.Build.0 = Release|Win32
+		{CA8E0929-0332-4F48-8547-4C9E2C93CE52}.Debug|x64.ActiveCfg = Debug|x64
+		{CA8E0929-0332-4F48-8547-4C9E2C93CE52}.Debug|x64.Build.0 = Debug|x64
+		{CA8E0929-0332-4F48-8547-4C9E2C93CE52}.Debug|x86.ActiveCfg = Debug|Win32
+		{CA8E0929-0332-4F48-8547-4C9E2C93CE52}.Debug|x86.Build.0 = Debug|Win32
+		{CA8E0929-0332-4F48-8547-4C9E2C93CE52}.Release|x64.ActiveCfg = Release|x64
+		{CA8E0929-0332-4F48-8547-4C9E2C93CE52}.Release|x64.Build.0 = Release|x64
+		{CA8E0929-0332-4F48-8547-4C9E2C93CE52}.Release|x86.ActiveCfg = Release|Win32
+		{CA8E0929-0332-4F48-8547-4C9E2C93CE52}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
