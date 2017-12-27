@@ -12,7 +12,7 @@ class Solution(object):
                 numdict[num] += 1
             else:
                 numdict[num] = 1
-                
+ #hehe               
         nums_deduplicated = list(numdict.keys())
         nums2_set = set([x << 1 for x in nums_deduplicated])
         if 0 in numdict and numdict[0] >= 3:
@@ -30,3 +30,6 @@ class Solution(object):
             visited.add(num_i)
                 
         return res
+    
+    #nilishaui
+    #hehe
